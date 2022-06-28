@@ -1,0 +1,200 @@
+
+body{background-color: black;}
+
+header{background-image: url(imagenes/listonargentino.gif);
+  background-size: contain;
+;height: 100px;
+width: 100%;
+margin-bottom: 10px;
+box-sizing: border-box;
+border-radius: 10px;
+box-shadow: inset 0 0 50px
+; margin-top:-30px
+}
+
+
+.audio {float: right;
+margin-top: -50px;}
+
+
+h1 {text-align: center;
+padding-top: 15px;
+font-size: 60px}
+
+nav{box-shadow: inset 0 0 50px;
+  background-color:  #940000 ;
+  border-radius: 10px;
+  ;height: 100px;
+  width: 100%}
+
+  .seccion1{float: left;
+    box-shadow: inset 0 0 20px black;
+    background-image: url(imagenes/listonpampeño.jpg);
+    background-size: contain;
+    text-align: center;
+    width: 400px;
+    height: 50px;
+    margin-top: 25px;
+margin-left: 10px;
+border-radius:10px;
+padding-top: 10px;
+box-sizing: border-box;
+font-size: 20px;
+font-weight: bold;}
+
+  .seccion2{float: left;
+    box-shadow: inset 0 0 20px black;
+    text-align: center;
+    background-image: url(imagenes/listonpampeño.jpg);
+    background-size: contain;
+    width: 400px;
+    margin-top: 25px;
+    margin-left: 90px;
+    border-radius: 10px;
+    height: 50px;
+    padding-top: 10px;
+    box-sizing: border-box;
+    font-size: 20px;
+    font-weight: bold;
+  }
+  .seccion3{float: left;
+    box-shadow: inset 0 0 20px black;
+    background-image: url(imagenes/listonpampeño.jpg);
+    background-size: contain;
+    text-align: center;
+    height: 50px;
+    width: 400px;
+    margin-top: 25px;
+  margin-left: 90px;
+  border-radius: 10px;
+  padding-top: 10px;
+  box-sizing: border-box;
+  font-size: 20px;
+  font-weight: bold;}
+
+
+  .seccion4{float: left;
+    box-shadow: inset 0 0 20px black;
+    background-image: url(imagenes/listonpampeño.jpg);
+    background-size: contain;
+    text-align: center;
+    height: 50px;
+    width: 400px;
+    margin-top: 25px;
+  margin-left: 90px;
+  border-radius: 10px;
+  padding-top: 10px;
+  box-sizing: border-box;
+  font-size: 20px;
+  font-weight: bold;}
+
+
+
+  section{  border-radius: 10px;
+    background-color:  #940000;
+
+    box-shadow: inset 0 0 50px;
+  width: 940px;
+height: 700px;
+margin-top: 10px;
+margin-right:10px;
+float: left;
+padding: 20px;
+text-align:justify;
+box-sizing: border-box;}
+
+.conteinermapa{
+  width: 400px;
+  height: 300px;
+  margin-left: 220px;
+  margin-top:50px}
+
+aside {box-shadow: inset 0 0 50px;
+  float: left;
+  background-color:  #940000 ;
+width: 939px;
+border-radius: 10px;
+
+height: 700px;
+float: left;
+margin-top: 10px;
+padding-left: 10px;
+box-sizing: border-box  ;
+}
+
+.lista1{margin-top: 10PX;
+  float: left;
+  text-align: justify;
+  margin-left: 50px;
+}
+.ingredientes{font-size: 20px;}
+.preparacion{font-size: 20px;}
+
+
+
+.lista2{margin-top:-20PX;
+  float: left;
+text-align: justify;
+padding-right: 10px;
+margin-top: 10px;
+margin-left: 50px}
+
+
+.imagen1{float: left;
+
+margin-left: 100px;
+margin-top: 30px;
+box-sizing: border-box;
+}
+
+.video1{margin-top: 70px;
+  float: left;
+  margin-left: 55px;
+padding-left:25px;}
+
+
+footer{    box-shadow: inset 0 0 50px;
+  background-color:  #940000
+
+;width: 100%;
+height: 200px;
+float: left;
+margin-top: 10px
+;  border-radius: 10px;
+}
+
+
+.footer1{color: black;
+  box-shadow: inset 0 0 20px black;
+border-radius: 10px;
+text-align: center;
+padding: 10px
+;float: left;
+margin: 10px;
+padding: 10px;
+margin-left: 250px;
+margin-top: 30px
+}
+
+
+.footer2{color: black;
+  box-shadow: inset 0 0 20px black;
+border-radius: 10px;
+text-align: center;
+padding: 10px
+;float: left;
+margin-left: 450px;
+margin-top: 30px;
+}
+
+.lucas{font-style: italic;
+font-weight: bold;}
+
+.footer3{color: black;
+  box-shadow: inset 0 0 20px black;
+border-radius: 10px;
+text-align: center;
+;float: left;
+margin-left: 500px;
+padding: 10px;
+margin-top: 30px}
